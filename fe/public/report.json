@@ -1,0 +1,229 @@
+{
+  "reportTime": "2024-12-11T16:51:31.9284479Z",
+  "reportGroups": [
+    {
+      "name": "Nh\u00F3m 2_Ng\u01B0\u1EDDi Ki\u00EAn Tr\u00EC",
+      "totalDistance": 26857.200171470642,
+      "totalMovingTime": 16086,
+      "totalActivities": 22,
+      "members": [
+        {
+          "rank": 1,
+          "lastName": "Ho",
+          "firstName": "Tatdong",
+          "name": "Ho Tatdong",
+          "distance": 15935.900168418884,
+          "activities": 17,
+          "elevGain": 67.19674158096313,
+          "movingTime": 7105,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocL5jEDsf2PMh9F0Y-fd7WwUR-_bJbpgW33eZ1NbH7hWfkFrhw=s96-c"
+        },
+        {
+          "rank": 5,
+          "lastName": "Ho\u00E0ng Anh",
+          "firstName": "Ng\u1ECDc",
+          "name": "Ho\u00E0ng Anh Ng\u1ECDc",
+          "distance": 9790.800003051758,
+          "activities": 3,
+          "elevGain": 12.299702644348145,
+          "movingTime": 8463,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocKHwvvvf4neLYIF0-NzTrHBcADz1j__jiIvHk1mHF90JAlT0Sc=s96-c"
+        },
+        {
+          "rank": 16,
+          "lastName": "Ho",
+          "firstName": "M\u1EA1nh",
+          "name": "Ho M\u1EA1nh",
+          "distance": 1130.5,
+          "activities": 2,
+          "elevGain": 0,
+          "movingTime": 518,
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/153356154/34279882/1/large.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nh\u00F3m 1_ Ng\u01B0\u1EDDi Ti\u00EAn Phong",
+      "totalDistance": 59281.80028295517,
+      "totalMovingTime": 29681,
+      "totalActivities": 24,
+      "members": [
+        {
+          "rank": 2,
+          "lastName": "Dung",
+          "firstName": "Pham",
+          "name": "Dung Pham",
+          "distance": 14564.799755096436,
+          "activities": 4,
+          "elevGain": 37.26115036010742,
+          "movingTime": 7740,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocI7O2Mm4-xgOkDi5A2tIjX2JA-HIgqcouYdBy0hvkhBu9LVcw=s96-c"
+        },
+        {
+          "rank": 4,
+          "lastName": "SBW",
+          "firstName": "Go Green",
+          "name": "SBW Go Green",
+          "distance": 11374.600219726562,
+          "activities": 3,
+          "elevGain": 0,
+          "movingTime": 5338,
+          "profile": "https://graph.facebook.com/3379916655357953/picture?height=256\u0026width=256"
+        },
+        {
+          "rank": 7,
+          "lastName": "Th\u1EAFng",
+          "firstName": "Nguy\u1EC5n Tr\u1ECDng",
+          "name": "Th\u1EAFng Nguy\u1EC5n Tr\u1ECDng",
+          "distance": 9661.900146484375,
+          "activities": 3,
+          "elevGain": 23.8770751953125,
+          "movingTime": 2843,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocLx37w-hn93hKV5dAoV-BW1I_10jksUL7CRtcEKP2WiMJq9SA=s96-c"
+        },
+        {
+          "rank": 8,
+          "lastName": "Tran",
+          "firstName": "Minh Dien",
+          "name": "Tran Minh Dien",
+          "distance": 8979.399963378906,
+          "activities": 6,
+          "elevGain": 45.468499183654785,
+          "movingTime": 5012,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocJIVCu6KkH3zJsGJ520fWsEtxdbxdX2XLTZ_xuDcoZX45ATfwUOpg=s96-c"
+        },
+        {
+          "rank": 9,
+          "lastName": "Phuong",
+          "firstName": "Duong",
+          "name": "Phuong Duong",
+          "distance": 7354.800048828125,
+          "activities": 2,
+          "elevGain": 3.052941083908081,
+          "movingTime": 3833,
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/153358203/34281223/1/large.jpg"
+        },
+        {
+          "rank": 12,
+          "lastName": "V\u0129nh Tr\u01B0\u1EDDng",
+          "firstName": "Tr\u1EA7n Ng\u1ECDc",
+          "name": "V\u0129nh Tr\u01B0\u1EDDng Tr\u1EA7n Ng\u1ECDc",
+          "distance": 5260.900100708008,
+          "activities": 4,
+          "elevGain": 36.82583284378052,
+          "movingTime": 3800,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocLEkPeRF5UyEFR1rwPfd7ILBwmEtltB-N_lcnr2_6lGjEBFxvHv=s96-c"
+        },
+        {
+          "rank": 14,
+          "lastName": "D\u01B0\u01A1ng",
+          "firstName": "Ril",
+          "name": "D\u01B0\u01A1ng Ril",
+          "distance": 2082.800048828125,
+          "activities": 1,
+          "elevGain": 13.744272232055664,
+          "movingTime": 1115,
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/153359661/34280485/1/large.jpg"
+        },
+        {
+          "rank": 19,
+          "lastName": "Tran",
+          "firstName": "Nhan",
+          "name": "Tran Nhan",
+          "distance": 2.5999999046325684,
+          "activities": 1,
+          "elevGain": 0,
+          "movingTime": 0,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocL50CCr6fAmyxgJYNg_Kh5mYTxlSbXFrb3uXRC5bX8QBs8A1ck=s96-c"
+        }
+      ]
+    },
+    {
+      "name": "Nh\u00F3m 3_Ng\u01B0\u1EDDi B\u1EE9t Ph\u00E1",
+      "totalDistance": 42242.97437286377,
+      "totalMovingTime": 25156,
+      "totalActivities": 20,
+      "members": [
+        {
+          "rank": 3,
+          "lastName": "Ng\u1ECDc",
+          "firstName": "Nhung",
+          "name": "Ng\u1ECDc Nhung",
+          "distance": 12323.900024414062,
+          "activities": 5,
+          "elevGain": 167.0412449836731,
+          "movingTime": 7581,
+          "profile": "https://dgalywyr863hv.cloudfront.net/pictures/athletes/81526263/34280088/1/large.jpg"
+        },
+        {
+          "rank": 6,
+          "lastName": "NGUYEN",
+          "firstName": "QUANG VU",
+          "name": "NGUYEN QUANG VU",
+          "distance": 9676.300048828125,
+          "activities": 3,
+          "elevGain": 127.97854614257812,
+          "movingTime": 5654,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocJFgRTb7BT-ctG543CVmmHX6a7E1nQr6P7S2Pa31phHnTt3KWTV=s96-c"
+        },
+        {
+          "rank": 10,
+          "lastName": "Nguy\u1EC5n Thanh",
+          "firstName": "Ti\u1EC1n",
+          "name": "Nguy\u1EC5n Thanh Ti\u1EC1n",
+          "distance": 6925.10009765625,
+          "activities": 3,
+          "elevGain": 28.835556983947754,
+          "movingTime": 3896,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocKqoV1Q_oAXsWbWRnsxq3ZyS-pJJ7TwCyt7dd7kipk0uvUeLg=s96-c"
+        },
+        {
+          "rank": 11,
+          "lastName": "D\u01B0\u01A1ng Ng\u1ECDc",
+          "firstName": "Tr\u00ECnh",
+          "name": "D\u01B0\u01A1ng Ng\u1ECDc Tr\u00ECnh",
+          "distance": 6390.2000732421875,
+          "activities": 4,
+          "elevGain": 31.907164335250854,
+          "movingTime": 4000,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocLdvKqGZ_1pSGlubKcbYXHRdSOqZmqLg7bYkVXPeApOEujfZ3Q=s96-c"
+        },
+        {
+          "rank": 13,
+          "lastName": "Vinh",
+          "firstName": "Ho\u00E0ng",
+          "name": "Vinh Ho\u00E0ng",
+          "distance": 5009.699951171875,
+          "activities": 2,
+          "elevGain": 21.621607780456543,
+          "movingTime": 2860,
+          "profile": "https://graph.facebook.com/3248388868606150/picture?height=256\u0026width=256"
+        },
+        {
+          "rank": 15,
+          "lastName": "V\u0103n H\u01B0ng",
+          "firstName": "D\u01B0\u01A1ng",
+          "name": "V\u0103n H\u01B0ng D\u01B0\u01A1ng",
+          "distance": 1780.400047302246,
+          "activities": 2,
+          "elevGain": 0,
+          "movingTime": 1160,
+          "profile": "https://lh3.googleusercontent.com/a/ACg8ocK91BQ_SjRea-qFRieZ-Z0wPW7kCYqE-auydoh_-ev63y8MEaM=s96-c"
+        },
+        {
+          "rank": 18,
+          "lastName": "Tr\u1EA7n",
+          "firstName": "Kh\u00E1nh To\u00E0n",
+          "name": "Tr\u1EA7n Kh\u00E1nh To\u00E0n",
+          "distance": 137.37413024902344,
+          "activities": 1,
+          "elevGain": 0,
+          "movingTime": 5,
+          "profile": "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/medium-bee27e393b8559be0995b6573bcfde897d6af934dac8f392a6229295290e16dd.png"
+        }
+      ]
+    }
+  ],
+  "description": null,
+  "title":"Nhà Máy Siemens Busway Việt Nam Private Club"
+}
