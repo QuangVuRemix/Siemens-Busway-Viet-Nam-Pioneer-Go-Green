@@ -1,18 +1,7 @@
-﻿using OpenAI.Chat;
-using StravaReport;
+﻿using StravaReport;
 using StravaReport.Models;
 
 Console.OutputEncoding = System.Text.Encoding.UTF8;
-
-
-//ChatClient chatClient = new
-//    (model: "gpt-3.5-turbo", 
-//    apiKey: "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");
-
-//ChatCompletion completion = chatClient.CompleteChat("Say 'this is a test.'");
-
-//Console.WriteLine($"[ASSISTANT]: {completion.Content[0].Text}");
-
 
 var config = System.Text.Json.JsonSerializer.Deserialize<Config>(File.ReadAllText("config.json"));
 
@@ -144,7 +133,7 @@ var reportAsJson = System.Text.Json.JsonSerializer.Serialize(new Report()
     PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase
 });
 File.WriteAllText("report.json", reportAsJson);
-File.WriteAllText("../../../root/report.json", reportAsJson);
+File.WriteAllText("../../../../root/report.json", reportAsJson);
 
 Console.WriteLine("Hoàn thành, bấm phím bất kỳ để thoát");
 
