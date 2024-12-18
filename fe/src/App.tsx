@@ -10,7 +10,7 @@ function App() {
   const [theme, setTheme] = useState("dark");
 
   useEffect(() => {
-    fetch('/report.json').then(rs => rs.json()).then(x => setData(x as Report));
+    fetch('./report.json').then(rs => rs.json()).then(x => setData(x as Report));
   }, [])
   return (
     <main className={`${theme} text-foreground bg-background`}>
