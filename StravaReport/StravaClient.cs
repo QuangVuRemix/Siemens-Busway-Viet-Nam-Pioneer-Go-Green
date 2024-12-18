@@ -65,5 +65,25 @@ namespace StravaReport
                 });
             }
         }
+
+        public static async Task<byte[]> DownloadAsync(string url)
+        {
+            using (var client = new HttpClient())
+            {
+                client.DefaultRequestHeaders.UserAgent.TryParseAdd(USER_AGENT);
+
+                var reponse = await client.GetAsync(url);
+                try
+                {
+                    var buffer = await reponse.Content.ReadAsByteArrayAsync();
+
+                    return buffer;
+                }
+                catch
+                {
+                    return null;
+                } 
+            }
+        }
     }
 }

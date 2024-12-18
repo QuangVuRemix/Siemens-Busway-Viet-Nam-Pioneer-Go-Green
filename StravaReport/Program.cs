@@ -99,6 +99,8 @@ foreach (var group in mapper.Values.GroupBy(x => x.Group?.Id).OrderByDescending(
             if (!member.Profile.StartsWith("http"))
                 member.Profile = "https://d3nn82uaxijpm6.cloudfront.net/assets/avatar/athlete/medium-bee27e393b8559be0995b6573bcfde897d6af934dac8f392a6229295290e16dd.png";
 
+            var profile = await StravaClient.DownloadAsync(member.Profile);
+             
             reportGroup.Members.Add(new ReportGroup.Member()
             {
                 Distance = item.distance,
@@ -107,7 +109,7 @@ foreach (var group in mapper.Values.GroupBy(x => x.Group?.Id).OrderByDescending(
                 LastName = member.Lastname,
                 MovingTime = item.moving_time,
                 Activities = item.num_activities,
-                Profile = member.Profile,
+                Profile = Convert.ToBase64String(profile),
                 Rank = item.rank
             });
         }
@@ -132,9 +134,8 @@ var reportAsJson = System.Text.Json.JsonSerializer.Serialize(new Report()
     WriteIndented = true,
     PropertyNamingPolicy = System.Text.Json.JsonNamingPolicy.CamelCase
 });
-File.WriteAllText("report.json", reportAsJson);
-File.WriteAllText("../../../../root/report.json", reportAsJson);
+File.WriteAllText("report.json", reportAsJson); 
 
-Console.WriteLine("Hoàn thành, bấm phím bất kỳ để thoát");
+//Console.WriteLine("Hoàn thành, bấm phím bất kỳ để thoát");
 
-Console.ReadKey();
+//Console.ReadKey();
